@@ -1,5 +1,4 @@
-# Welcome to [QR Code Generator](https://genratemeqr.vercel.app/) 🔲 <a href="image/svg+xml" width="25px"></a>
-
+# Welcome to [QR Code Generator](https://genratemeqr.vercel.app/) 
 A free, fast, and customizable QR code generator built with modern web technologies. Create QR codes for URLs, text, and more with custom colors and sizes.
 
 ## ✨ Features
