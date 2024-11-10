@@ -1,4 +1,4 @@
-# Welcome to [QR Code Generator](https://genratemeqr.vercel.app/) 🔲 <a href="https://genratemeqr.vercel.app/"><img src="https://media.giphy.com/media/3oKIPc9VZj4ylzjcys/giphy.gif" width="25px"></a>
+# Welcome to [QR Code Generator](https://genratemeqr.vercel.app/) 🔲 <a href="https://en.wikipedia.org/wiki/QR_code" width="25px"></a>
 
 A free, fast, and customizable QR code generator built with modern web technologies. Create QR codes for URLs, text, and more with custom colors and sizes.
 
