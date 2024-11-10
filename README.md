@@ -1,4 +1,4 @@
-# Welcome to [QR Code Generator](https://genratemeqr.vercel.app/) 🔲 <a href="https://en.wikipedia.org/wiki/QR_code" width="25px"></a>
+# Welcome to [QR Code Generator](https://genratemeqr.vercel.app/) 🔲 <a href="image/svg+xml" width="25px"></a>
 
 A free, fast, and customizable QR code generator built with modern web technologies. Create QR codes for URLs, text, and more with custom colors and sizes.
 
@@ -62,7 +62,7 @@ This project is open source and available under the MIT License.
 
 ## 🤝 Contact
 
-Created by [Your Name] - feel free to contact me!
+Created by Krishan Murari - feel free to contact me!
 
 <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
 &nbsp;
