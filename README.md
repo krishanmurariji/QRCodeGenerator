@@ -55,21 +55,53 @@ npm install
 npm run dev
 ```
 
-## 📝 License
+## ✨ Author: Krishan Murari
 
-This project is open source and available under the MIT License.
+👋 Welcome to [Krishan Murari's](https://krishanmurari.live/) profile!  
+<a href="https://krishanmurari.live/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-## 🤝 Contact
+Connect with me on:
 
-Created by Krishan Murari - feel free to contact me!
-
-<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/krishan-murari/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 &nbsp;
-<a href="https://github.com/yourusername" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="your-github" height="30" width="40" /></a>
+<a href="https://twitter.com/KrishanMuraari" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 &nbsp;
+<a href="https://www.instagram.com/krishanmurariji/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+&nbsp;
+<a href="https://www.youtube.com/@Decode-And-discover" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+&nbsp;
+<a href="https://github.com/krishanmurariji" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+&nbsp;
+<a href="https://leetcode.com/Krishanmurariji/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 
 ---
 
-### 💻 Try it out now!
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on JavaScript and React projects  
+- 🌱 I’m learning Data Structures, Algorithms, and modern web development tools  
+- ✍ I’m a Web Developer, Designer, Teacher & Student  
+- 🎭 I also enjoy poetry, movies, and tech exploration  
+
+---
+
+## 🧩 How to Run This Project Locally
+
+Make sure you have **Node.js & npm** installed. We recommend installing via [nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+
+### Step-by-step Instructions
+
+```bash
+# Step 1: Clone the repository
+git clone <YOUR_GIT_URL>
+
+# Step 2: Navigate into the project directory
+cd <YOUR_PROJECT_NAME>
+
+# Step 3: Install dependencies
+npm install
+
+# Step 4: Run the development server
+npm run dev
 
 Visit [https://genratemeqr.vercel.app/](https://genratemeqr.vercel.app/) to create your custom QR codes for free!
