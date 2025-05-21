@@ -85,23 +85,4 @@ Connect with me on:
 
 ---
 
-## 🧩 How to Run This Project Locally
-
-Make sure you have **Node.js & npm** installed. We recommend installing via [nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-### Step-by-step Instructions
-
-```bash
-# Step 1: Clone the repository
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate into the project directory
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install dependencies
-npm install
-
-# Step 4: Run the development server
-npm run dev
-
 Visit [https://genratemeqr.vercel.app/](https://genratemeqr.vercel.app/) to create your custom QR codes for free!
